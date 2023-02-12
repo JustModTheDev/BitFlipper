@@ -1,0 +1,15 @@
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\bin\Debug\net6.0\BitFlipper.exe
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\bin\Debug\net6.0\BitFlipper.deps.json
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\bin\Debug\net6.0\BitFlipper.runtimeconfig.json
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\bin\Debug\net6.0\BitFlipper.dll
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\bin\Debug\net6.0\BitFlipper.pdb
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.csproj.AssemblyReference.cache
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.AssemblyInfoInputs.cache
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.AssemblyInfo.cs
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.csproj.CoreCompileInputs.cache
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.dll
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\refint\BitFlipper.dll
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.pdb
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\BitFlipper.genruntimeconfig.cache
+C:\Users\vds\source\repos\BitFlipper\BitFlipper\obj\Debug\net6.0\ref\BitFlipper.dll
